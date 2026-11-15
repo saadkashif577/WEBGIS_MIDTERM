@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Turbat Schools and Book Shops</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="layout">
+      <aside class="sidebar">
+        <header>
+          <p class="eyebrow">FA23-BRG-056 · WEB GIS</p>
+          <h1>Turbat<br />Schools &amp; Book Shops</h1>
+          <p class="location">Turbat, Balochistan</p>
+        </header>
+
+        <section class="legend">
+          <h2>Map key</h2>
+          <p><i class="dot school"></i> School</p>
+          <p><i class="dot bookshop"></i> Book shop</p>
+        </section>
+
+        <section class="notice">
+          <strong>20 mapped locations</strong>
+          <p>17 schools from an open institute dataset and 3 book-shop listings. Coverage is incomplete; confirm details before visiting.</p>
+        </section>
+
+        <p id="status">Connecting to the database…</p>
+      </aside>
+
+      <section class="map-panel">
+        <div class="map-heading">Facility locations <span>Interactive map</span></div>
+        <div id="map"></div>
+        <p class="attribution">School data: NCBC via Open Data Pakistan (CC BY). Book-shop listings: Google Maps. Map tiles © OpenStreetMap contributors.</p>
+      </section>
+    </main>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

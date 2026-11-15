@@ -1,0 +1,14 @@
+{
+  "name": "fa23-brg-056-turbat-facilities",
+  "version": "1.0.0",
+  "description": "Basic PostGIS Web GIS for sample schools and book shops in Turbat",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "pg": "^8.23.1"
+  }
+}
