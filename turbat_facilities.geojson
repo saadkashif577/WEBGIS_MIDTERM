@@ -1,0 +1,406 @@
+{
+  "type": "FeatureCollection",
+  "name": "turbat_facilities",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.0100876,
+          26.014858
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "facility_name": "GBHS Koshkalat Turbat",
+        "facility_type": "School",
+        "district": "Kech",
+        "locality": "Turbat area",
+        "address_text": "Street address not provided by source",
+        "source_note": "Balochistan Educational Institutes; EMIS 25854; CC BY",
+        "source_url": "https://opendata.com.pk/dataset/balochistan-educational-institutes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.0191453,
+          26.0101181
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "facility_name": "GBPS Aspi Bazar",
+        "facility_type": "School",
+        "district": "Kech",
+        "locality": "Turbat area",
+        "address_text": "Street address not provided by source",
+        "source_note": "Balochistan Educational Institutes; EMIS 25858; CC BY",
+        "source_url": "https://opendata.com.pk/dataset/balochistan-educational-institutes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9945602,
+          26.00672
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "facility_name": "GBPS Nokabad",
+        "facility_type": "School",
+        "district": "Kech",
+        "locality": "Turbat area",
+        "address_text": "Street address not provided by source",
+        "source_note": "Balochistan Educational Institutes; EMIS 25862; CC BY",
+        "source_url": "https://opendata.com.pk/dataset/balochistan-educational-institutes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9862314,
+          25.9999037
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "facility_name": "GBMIDS Dannuk Bazar",
+        "facility_type": "School",
+        "district": "Kech",
+        "locality": "Turbat area",
+        "address_text": "Street address not provided by source",
+        "source_note": "Balochistan Educational Institutes; EMIS 25863; CC BY",
+        "source_url": "https://opendata.com.pk/dataset/balochistan-educational-institutes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9856936,
+          25.9967213
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "facility_name": "GBPS New Kotwali",
+        "facility_type": "School",
+        "district": "Kech",
+        "locality": "Turbat area",
+        "address_text": "Street address not provided by source",
+        "source_note": "Balochistan Educational Institutes; EMIS 25865; CC BY",
+        "source_url": "https://opendata.com.pk/dataset/balochistan-educational-institutes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.0974931,
+          26.001421
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "facility_name": "GBMIDS Aabsari Lud",
+        "facility_type": "School",
+        "district": "Kech",
+        "locality": "Turbat area",
+        "address_text": "Street address not provided by source",
+        "source_note": "Balochistan Educational Institutes; EMIS 25946; CC BY",
+        "source_url": "https://opendata.com.pk/dataset/balochistan-educational-institutes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.0851603,
+          25.9993156
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "facility_name": "GBHS Kahuda Yousaf Bazar Absar",
+        "facility_type": "School",
+        "district": "Kech",
+        "locality": "Turbat area",
+        "address_text": "Street address not provided by source",
+        "source_note": "Balochistan Educational Institutes; EMIS 25947; CC BY",
+        "source_url": "https://opendata.com.pk/dataset/balochistan-educational-institutes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.0773225,
+          26.0063446
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "facility_name": "GBHS Aab Sar",
+        "facility_type": "School",
+        "district": "Kech",
+        "locality": "Turbat area",
+        "address_text": "Street address not provided by source",
+        "source_note": "Balochistan Educational Institutes; EMIS 25949; CC BY",
+        "source_url": "https://opendata.com.pk/dataset/balochistan-educational-institutes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.0727485,
+          25.9971384
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "facility_name": "GBPS Salala Bazar",
+        "facility_type": "School",
+        "district": "Kech",
+        "locality": "Turbat area",
+        "address_text": "Street address not provided by source",
+        "source_note": "Balochistan Educational Institutes; EMIS 25954; CC BY",
+        "source_url": "https://opendata.com.pk/dataset/balochistan-educational-institutes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.0550157,
+          26.0026613
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "facility_name": "GBMODHS Turbat",
+        "facility_type": "School",
+        "district": "Kech",
+        "locality": "Turbat area",
+        "address_text": "Street address not provided by source",
+        "source_note": "Balochistan Educational Institutes; EMIS 25974; CC BY",
+        "source_url": "https://opendata.com.pk/dataset/balochistan-educational-institutes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.0471354,
+          25.9961527
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "facility_name": "GBPS Airport Road",
+        "facility_type": "School",
+        "district": "Kech",
+        "locality": "Turbat area",
+        "address_text": "Street address not provided by source",
+        "source_note": "Balochistan Educational Institutes; EMIS 26183; CC BY",
+        "source_url": "https://opendata.com.pk/dataset/balochistan-educational-institutes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.0354542,
+          26.0033287
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "facility_name": "GGHSS Chahsar Turbat",
+        "facility_type": "School",
+        "district": "Kech",
+        "locality": "Turbat area",
+        "address_text": "Street address not provided by source",
+        "source_note": "Balochistan Educational Institutes; EMIS 26192; CC BY",
+        "source_url": "https://opendata.com.pk/dataset/balochistan-educational-institutes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.0373156,
+          26.002897
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "facility_name": "GBHS Chahsar",
+        "facility_type": "School",
+        "district": "Kech",
+        "locality": "Turbat area",
+        "address_text": "Street address not provided by source",
+        "source_note": "Balochistan Educational Institutes; EMIS 26193; CC BY",
+        "source_url": "https://opendata.com.pk/dataset/balochistan-educational-institutes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.0181664,
+          26.0003109
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "facility_name": "GBHS Shahi Tump",
+        "facility_type": "School",
+        "district": "Kech",
+        "locality": "Turbat area",
+        "address_text": "Street address not provided by source",
+        "source_note": "Balochistan Educational Institutes; EMIS 26194; CC BY",
+        "source_url": "https://opendata.com.pk/dataset/balochistan-educational-institutes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.9786411,
+          26.01255
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "facility_name": "GGPS Shanzdar",
+        "facility_type": "School",
+        "district": "Kech",
+        "locality": "Turbat area",
+        "address_text": "Street address not provided by source",
+        "source_note": "Balochistan Educational Institutes; EMIS 210202; CC BY",
+        "source_url": "https://opendata.com.pk/dataset/balochistan-educational-institutes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.0390452,
+          25.9999108
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "facility_name": "GGHS Shekhani Bazar Turbat",
+        "facility_type": "School",
+        "district": "Kech",
+        "locality": "Turbat area",
+        "address_text": "Street address not provided by source",
+        "source_note": "Balochistan Educational Institutes; EMIS 26201; CC BY",
+        "source_url": "https://opendata.com.pk/dataset/balochistan-educational-institutes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.0819728,
+          25.9813362
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "facility_name": "GBPS Koh-E-Murad Bazar",
+        "facility_type": "School",
+        "district": "Kech",
+        "locality": "Turbat area",
+        "address_text": "Street address not provided by source",
+        "source_note": "Balochistan Educational Institutes; EMIS 29040; CC BY",
+        "source_url": "https://opendata.com.pk/dataset/balochistan-educational-institutes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.0695268,
+          26.0036139
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "facility_name": "Turbat Online Book Shop - Official",
+        "facility_type": "Book Shop",
+        "district": "Kech",
+        "locality": "Turbat",
+        "address_text": "Address not listed",
+        "source_note": "Google Maps business listing; confirm before visiting",
+        "source_url": "https://www.google.com/maps/place/Turbat+Online+Book+Shop+-+Official/data=!4m7!3m6!1s0x3ec75908db2d14df:0x16d1d8e786020802!8m2!3d26.0036139!4d63.0695268!16s%2Fg%2F11hyxmt2kz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.0566522,
+          26.0053002
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "facility_name": "National Bookshop",
+        "facility_type": "Book Shop",
+        "district": "Kech",
+        "locality": "Turbat",
+        "address_text": "2344+4MC, Turbat",
+        "source_note": "Google Maps business listing; confirm before visiting",
+        "source_url": "https://www.google.com/maps/place/National+Bookshop/data=!4m7!3m6!1s0x3ec759509d965291:0x90a9d27eb05c2fdc!8m2!3d26.0053002!4d63.0566522!16s%2Fg%2F11fmvl9d95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.0579966,
+          26.0055007
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "facility_name": "Talha Book Shop",
+        "facility_type": "Book Shop",
+        "district": "Kech",
+        "locality": "Turbat",
+        "address_text": "2345+655, Turbat",
+        "source_note": "Google Maps business listing; confirm before visiting",
+        "source_url": "https://www.google.com/maps/place/Talha+Book+Shop/data=!4m7!3m6!1s0x3ec7598d8a67ab45:0x427ffd9f9b5feec!8m2!3d26.0055007!4d63.0579966!16s%2Fg%2F11hfjy3k7k"
+      }
+    }
+  ]
+}
